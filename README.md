@@ -10,7 +10,7 @@
 An exhaustive list of packages used could be found in the *requirements.txt* file. Install the same using the following command:
 
 ```bash
- conda create --name <env> --file requirements.txt
+ pip install -r requirements.txt
 ```
 
 ## Folder hierarchies 
