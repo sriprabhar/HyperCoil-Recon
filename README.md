@@ -1,5 +1,7 @@
-# 
-
+# Universal Coil Configuration-Adaptive model for Multi-coil MRI Reconstruction 
+### *Universal Coil Configuration-Adaptive model for Multi-coil MRI Reconstruction using Hypernetworks*
+> [HyperCoil-Recon: A Hypernetwork-based Adaptive Coil Configuration Task Switching Network for MRI Reconstruction]()
+![Graphical abstract](src/images/ConceptDiagram_hypercoil_recon.png)
 ## Dependencies
 #### Packages
 * *PyTorch*
